@@ -33,8 +33,8 @@
           <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_agent.swc" useDefaultLinkType="false"/>
         </excludedEntries>
       </libraryPathEntry>
-      <libraryPathEntry kind="3" linkType="1" path="/Hendrix ContentManager/bin/Hendrix ContentManager.swc" useDefaultLinkType="false"/>
-      <libraryPathEntry kind="3" linkType="1" path="/starling/bin/starling.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="1" linkType="1" path="libs"/>
+      <libraryPathEntry kind="3" linkType="1" path="/Starling/bin-debug/Starling.swc" useDefaultLinkType="false"/>
     </libraryPath>
     <sourceAttachmentPath/>
   </compiler>
@@ -46,6 +46,9 @@
   <buildCSSFiles/>
   <flashCatalyst validateFlashCatalystCompatibility="false"/>
 </actionScriptProperties>
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 590ed835c3ebef0234a3e5d9c4a62db7652e5c02
