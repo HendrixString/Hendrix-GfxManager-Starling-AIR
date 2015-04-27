@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
-  <includeClasses>
-    <classEntry path="com.hendrix.gfxManager.GfxManager"/>
-    <classEntry path="com.hendrix.gfxManager.core.interfaces.IIdTexture"/>
-    <classEntry path="com.hendrix.gfxManager.GfxPackage"/>
-    <classEntry path="com.hendrix.gfxManager.core.types.IdTexture"/>
-    <classEntry path="com.hendrix.gfxManager.core.types.IdTextureAtlas"/>
-  </includeClasses>
+  <includeClasses/>
   <includeResources/>
   <namespaceManifests/>
 </flexLibProperties>
