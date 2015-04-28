@@ -97,3 +97,6 @@ private function gfx_onComplete(pm:ProcessManager):void
 ### Terms
 * completely free source code.
 * if you like it -> star or share it with others
+
+### Contact
+[tomer.shalev@gmail.com](tomer.shalev@gmail.com)
