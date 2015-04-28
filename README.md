@@ -19,7 +19,7 @@ to your project, or import to your IDE of choice such as `Flash Builder 4.7`. re
 - ability to unload and reload textures from the GPU.
 - based on [Hendrix Content Manager](https://github.com/HendrixString/Hendrix-ContentManager-Air-as3)
 
-## How to use
+## Guide
 1 Single pack loading:
 
 * use simple queries to the `GfxPackage` in string format by id:
