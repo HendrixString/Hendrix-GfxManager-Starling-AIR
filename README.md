@@ -94,9 +94,14 @@ private function gfx_onComplete(pm:ProcessManager):void
 }
 ```
 
+### Dependencies
+* [`Hendrix Content Manager`](https://github.com/HendrixString/Hendrix-ContentManager-Air-as3)
+
 ### Terms
-* completely free source code.
+* completely free source code. [Apache License, Version 2.0.](http://www.apache.org/licenses/LICENSE-2.0)
 * if you like it -> star or share it with others
 
-### Contact
-[tomer.shalev@gmail.com](tomer.shalev@gmail.com)
+### Contact Author
+* [tomer.shalev@gmail.com](tomer.shalev@gmail.com)
+* [Google+ TomershalevMan](https://plus.google.com/+TomershalevMan/about)
+* [Facebook - HendrixString](https://www.facebook.com/HendrixString)
