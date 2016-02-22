@@ -33,7 +33,7 @@ to your project, or import to your IDE of choice such as `Flash Builder 4.7`. re
     - the id of the xml has to be the id of the png + "XML"
   - unload texture using `pack.unloadTexture("tex_id")` or `pack.unloadTexture("*")`
   - reload unloaded texture using `pack.loadTexture("tex_id")`, `pack.getTexture("tex_id")`
-```
+```actionscript
 public function loadSinglePack():void
 {      
   var gfxPack:GfxPackage    = new GfxPackage("gfx");
@@ -65,7 +65,7 @@ private function pack_onFinished(pack:GfxPackage):void
 * use simple queries to the `ContentManager` in string format by id:
 `GfxManager.instance.getTexture("pack_id::tex_id")`, `GfxManager.instance.getTexture("pack_id::texture_atlas_id.tex_id")`
 
-```
+```actionscript
 private var gfxManager:GfxManager = GfxManager.instance;
 
 public function loadMultiPacks():void
